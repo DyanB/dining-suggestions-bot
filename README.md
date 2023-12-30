@@ -1,2 +1,2 @@
-# CloudComputing_Course_Project
-## Dining Suggestions Chatbot
+# Dining Suggestions Chatbot
+Project built as part of my Cloud computing coursework
